@@ -42,3 +42,11 @@ pytest -q
 - Uploaded files are processed in the running app session; avoid sensitive documents on untrusted hosting.
 
 Built by Adarsh Anand for educational and research use.
+
+## Project discovery
+
+**Local PDF Research Assistant with Semantic Search** — Local PDF question answering and document retrieval with sentence-transformer embeddings, semantic search, cited passages and Streamlit.
+
+**Related developer searches:** PDF research assistant, semantic search, sentence transformers, document retrieval, citations, Python, Streamlit.
+
+**Source:** [AI-Research-Assistant](https://github.com/iamAdarshAnand/AI-Research-Assistant) · **Author:** [Adarsh Anand](https://github.com/iamAdarshAnand)
